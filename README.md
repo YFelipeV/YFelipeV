@@ -42,7 +42,7 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+
 
 <!--- trophy (start) -->
 <div align=left>
